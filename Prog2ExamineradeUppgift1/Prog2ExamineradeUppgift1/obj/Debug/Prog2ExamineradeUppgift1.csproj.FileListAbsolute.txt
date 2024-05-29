@@ -1,0 +1,10 @@
+C:\Users\tim.clement\source\repos\Prog2ExamineradeUppgift1\Prog2ExamineradeUppgift1\bin\Debug\Prog2ExamineradeUppgift1.exe.config
+C:\Users\tim.clement\source\repos\Prog2ExamineradeUppgift1\Prog2ExamineradeUppgift1\bin\Debug\Prog2ExamineradeUppgift1.exe
+C:\Users\tim.clement\source\repos\Prog2ExamineradeUppgift1\Prog2ExamineradeUppgift1\bin\Debug\Prog2ExamineradeUppgift1.pdb
+C:\Users\tim.clement\source\repos\Prog2ExamineradeUppgift1\Prog2ExamineradeUppgift1\obj\Debug\Prog2ExamineradeUppgift1.csproj.AssemblyReference.cache
+C:\Users\tim.clement\source\repos\Prog2ExamineradeUppgift1\Prog2ExamineradeUppgift1\obj\Debug\Prog2ExamineradeUppgift1.MyPaint.resources
+C:\Users\tim.clement\source\repos\Prog2ExamineradeUppgift1\Prog2ExamineradeUppgift1\obj\Debug\Prog2ExamineradeUppgift1.Properties.Resources.resources
+C:\Users\tim.clement\source\repos\Prog2ExamineradeUppgift1\Prog2ExamineradeUppgift1\obj\Debug\Prog2ExamineradeUppgift1.csproj.GenerateResource.cache
+C:\Users\tim.clement\source\repos\Prog2ExamineradeUppgift1\Prog2ExamineradeUppgift1\obj\Debug\Prog2ExamineradeUppgift1.csproj.CoreCompileInputs.cache
+C:\Users\tim.clement\source\repos\Prog2ExamineradeUppgift1\Prog2ExamineradeUppgift1\obj\Debug\Prog2ExamineradeUppgift1.exe
+C:\Users\tim.clement\source\repos\Prog2ExamineradeUppgift1\Prog2ExamineradeUppgift1\obj\Debug\Prog2ExamineradeUppgift1.pdb
